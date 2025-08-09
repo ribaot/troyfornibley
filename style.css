@@ -214,7 +214,8 @@ footer a:hover {
 
   .hero-text {
     width: 100%;
-    order: 2; 
+    order: 2;
+	padding: 0.5rem;
   }
 
   .hero-text p {
@@ -231,6 +232,7 @@ footer a:hover {
     width: 100%;
     height: 60vh;
     clip-path: none;
+	object-position: 35% 15%;
   }
 
   .issues-summary {
